@@ -35,7 +35,7 @@ O gráfico abaixo mostra o faturamento total de cada loja:
 
 O gráfico a seguir apresenta o faturamento por categoria de produto:
 
-![Faturamento por Categoria](assets/faturamento.png)
+![Faturamento por Categoria](assets/categoria.png)
 
 - **Loja 1 e Loja 2** concentram vendas em categorias de alto valor agregado, como "eletrônicos".
 - **Loja 4** possui maior volume de vendas em categorias de baixo ticket médio, como "utilidades domésticas".
